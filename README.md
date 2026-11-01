@@ -1,6 +1,3 @@
-# lipstick-unfiltered
-Because every lipstick has a story. 💄 An AI-powered VoC copilot turning customer reviews into product insights, one shade at a time.
-
 # Lipstick Unfiltered: What Shoppers Really Say About Their Lipsticks
 
 A Voice of Customer (VoC) dashboard and copilot built on 2,635 public Nykaa lipstick and liquid lipstick reviews (22 products, 286 shades). It turns reviews into product decisions: top pain points, what shoppers love, shades to watch, and recommended actions backed by real review quotes.
@@ -58,4 +55,3 @@ Open `index.html` in a browser. To change colours or text, edit `tpl.html`. To c
 - A snapshot of 22 products, not all of Nykaa. Not affiliated with Nykaa.
 - The Q&A retrieval is keyword-based, so it can miss relevant reviews that use different words.
 - The review data file is not included in this repository; the dashboard page embeds review text for demonstration only.
-
